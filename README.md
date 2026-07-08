@@ -1,0 +1,2 @@
+# test_Effective_Mobile
+Тестовое_эфектив_мобайл
